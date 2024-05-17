@@ -13,7 +13,7 @@
 
 ¡Hola 🤍!
 
-Somos **`pssa technologies`**, y hacemos seguridad, redes, casas inteligentes, soluciones tecnológicas y servicios para la construcción. Operamos en Durango, México.
+Somos **`pssa technologies`**, y hacemos redes de internet, videovigilancia, alarmas, electricidad, hogar inteligente, tecnología para el hogar y remodelaciones. Operamos en Durango, México.
 
 Intenta algo de lo siguiente:
 
